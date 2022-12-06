@@ -9,7 +9,7 @@ LiveShare extension in GitHub Codespace with few clicks.
 1. Create a Codespace.
 2. Run `./init` script in the terminal.
 3. Follow the interactive script, put your `ADO` username and `PAT` (code read/write + packaging read) when asked.
-4. Enjoy ❤️
+
 
 ### Issues/Feedback
 
