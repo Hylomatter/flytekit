@@ -13,4 +13,4 @@ LiveShare extension in GitHub Codespace with few clicks.
 
 ### Issues/Feedback
 
-- Feedback appreciated, create issues on this repo if anything 🤗
+
