@@ -8,7 +8,7 @@
 	"extensions": [],
 	"remoteEnv": {
 		// [change] ADO repo URL
-		"ADO_REPO_URL": "https://devdiv.visualstudio.com/DevDiv/_git/Cascade",
+		"ADO_REPO_URL": "https://dev.azure.com/matezm12/Hylomatter%20Labs/_git/Hylomatter%20Labs?path=%2F&version=GBcodespaces_testing&_a=contents",
 		// [change] relative to the ADO repo root
 		"ADO_REPO_DEFAULT_PATH": "/vscode/extension",
 		/*
